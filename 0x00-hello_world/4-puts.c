@@ -4,10 +4,10 @@
  *
  *void - the default value for main
  *
- *Return:  return value must be  0
+ *Return: return value must be 0
  */
 int main(void)
 {
-        puts("\"Programming is like building a multilingual puzzle");
-        return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
