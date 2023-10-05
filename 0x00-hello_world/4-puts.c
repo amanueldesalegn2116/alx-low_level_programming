@@ -1,10 +1,8 @@
 #include<stdio.h>
 /**
- *main - a program will print the line as puts function
+ *main - print the line as puts function for main
  *
- *void - the default value for main
- *
- *Return: return value must be 0
+ *Return: return value is 0
  */
 int main(void)
 {
