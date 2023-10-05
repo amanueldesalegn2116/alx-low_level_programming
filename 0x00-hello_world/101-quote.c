@@ -2,7 +2,7 @@
 #include<unistd.h>
 /**
  * main - the main function
- * Return: value is 1
+ * Return: the value is 1 for return
  */
 int main(void)
 {
