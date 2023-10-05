@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - the main function
- * Return: must be "0" always
+ * Return: the value must be "0" always
 */
 int main(void)
 {
