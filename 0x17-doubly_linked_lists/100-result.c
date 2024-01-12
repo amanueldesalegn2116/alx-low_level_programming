@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - find palindrome of largest product of two 3-digit numbers
+ * main - Find Palindrome Of Largest Product Of Two 3-digit Numbers
  * Return: Always 1
  */
 int main(void)

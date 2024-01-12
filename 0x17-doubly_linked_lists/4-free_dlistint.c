@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * free_dlistint - free a list
- * @head: list
+ * free_dlistint - Free A List
+ * @head: List
  * Return: Void
  */
 

@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * add_dnodeint - add new element at beginiing of list
- * @head: pointer
- * @n: element in list
- * Return: new Element
+ * add_dnodeint -Add New Element At Beginiing Of List
+ * @head: Pointer
+ * @n: Element In List
+ * Return: New Element
  */
 
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)

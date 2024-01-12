@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * dlistint_len - Return list len
- * @h: struct list
+ * dlistint_len - Return List Len
+ * @h: Struct List
  * Return: list_len
  */
 
