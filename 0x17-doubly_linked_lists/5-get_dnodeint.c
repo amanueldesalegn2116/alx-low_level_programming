@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * get_dnodeint_at_index - get node by index
- * @head: list
- * @index: index of element
- * Return: element by index
+ * get_dnodeint_at_index - Get Node By Index
+ * @head: List
+ * @index: Index Of Element
+ * Return: Element By Index
  */
 
 dlistint_t *get_dnodeint_at_index(dlistint_t *head, unsigned int index)

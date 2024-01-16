@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * add_dnodeint_end - add element at the end of the list
- * @head: list
- * @n: element in list
- * Return: new element/NULL if failed
+ * add_dnodeint_end - Add Element At The End Of The List
+ * @head: List
+ * @n: Element In List
+ * Return: New Element/NULL If Failed
  */
 
 dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)

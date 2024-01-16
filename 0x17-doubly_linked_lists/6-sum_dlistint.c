@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
- * sum_dlistint - sum of elements in list
- * @head: list
- * Return: int
+ * sum_dlistint - Sum Of Elements In List
+ * @head: List
+ * Return: Int
  */
 
 int sum_dlistint(dlistint_t *head)

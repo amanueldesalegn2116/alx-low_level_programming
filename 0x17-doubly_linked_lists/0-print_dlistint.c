@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_dlistint - prints all elements of a dlistint_t list.
- * @h: head of a doubly linked list
- * Return: the number of nodes
+ * print_dlistint - Prints All Elements Of A Dlistint_t List.
+ * @h: Head Of A Doubly Linked List
+ * Return: The Number Of Nodes
  */
 
 size_t print_dlistint(const dlistint_t *h)
