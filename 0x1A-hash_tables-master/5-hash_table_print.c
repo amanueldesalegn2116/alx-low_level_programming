@@ -1,9 +1,7 @@
 #include "hash_tables.h"
 /**
-*hash_table_print - print key:value of ht
+*hash_table_print - print key of value of ht
 *@ht: hash table
-*
-*
 */
 void hash_table_print(const hash_table_t *ht)
 {

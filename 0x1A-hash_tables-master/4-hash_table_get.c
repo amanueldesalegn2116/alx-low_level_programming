@@ -1,9 +1,9 @@
 #include "hash_tables.h"
 /**
-*hash_table_get - retrive value crosponding to key in ht
+*hash_table_get - retrive value
 *@ht: hash table
-*@key: key used for hashing
-*Return: value on success otherwise nuil
+*@key: key
+*Return: value on success else nuil
 */
 char *hash_table_get(const hash_table_t *ht, const char *key)
 {

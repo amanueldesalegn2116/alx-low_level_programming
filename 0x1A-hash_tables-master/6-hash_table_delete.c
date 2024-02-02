@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 /**
-*hash_table_delete - frees hash table
-*@ht: hash table to be frred
+*hash_table_delete - frees the  hash table
+*@ht: hash table to be freed
 */
 void hash_table_delete(hash_table_t *ht)
 {

@@ -1,9 +1,9 @@
 #include "hash_tables.h"
 /**
-*key_index - function that return the index using "key" and "size"
-*@key: string used to generate index
-*@size: size of hash tables' items
-*Return: index where the key to store
+*key_index - Function
+*@key: String
+*@size: Size Of Hash Table
+*Return: Index Where The Key To Store
 */
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
 {

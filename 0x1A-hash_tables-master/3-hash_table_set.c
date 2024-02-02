@@ -1,9 +1,9 @@
 #include "hash_tables.h"
 /**
-*hash_table_set - set item in hash table
+*hash_table_set - set item in the hash table
 *@ht: - hash table
-*@key: key used to make hashing
-*@value: value of item crosponding to key
+*@key: key to make hashing
+*@value: value
 *Return: 0 on faliure and 1 on success
 */
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
