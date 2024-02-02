@@ -2,7 +2,7 @@
 
 /**
  * shash_table_create - creates a table
- * @s: size 
+ * @s: size
  *
  * Return: pointer to the new table, or NULL on failure
  */
